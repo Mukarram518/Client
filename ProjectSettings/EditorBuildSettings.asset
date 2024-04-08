@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Loding scane.unity
+    guid: 475932db8d0b1f14c92d4ab6f9ae21f3
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Main manu.unity
+    guid: 433be16f024d23c46bdd4d0c0078c4a0
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/LevelSelection.unity
+    guid: b71cd84207c9b5b4dad5faa8d63a19ab
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Level 1.unity
+    guid: eeb9d2f9d86ffd64c88e664dec3c73fa
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/level 2.unity
+    guid: eeb8960796b0bf3458734873482a58a3
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Level 3.unity
+    guid: 70c3480815bd0f84cb98c6e9c430e653
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/level 4.unity
+    guid: 810c4dec41df05049a193ab4aef2e1c5
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Level 5.unity
+    guid: 096ebca78e6e1074384f26c2f47f6e49
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Level 6.unity
+    guid: 10feb30cfa3a46941a63c38851c230c5
+  - enabled: 1
+    path: Assets/2D Practice/Scenes1/Level 7.unity
+    guid: df8369612aac996409148346fb4b8153
+  - enabled: 0
+    path: Assets/2D Practice/Scenes1/Level 8.unity
+    guid: 74ec283a951517340bcee333503265d9
+  - enabled: 0
+    path: Assets/2D Practice/Scenes1/Level 9.unity
+    guid: e6179c3125f93a84984aa1eab077c0ee
+  - enabled: 0
+    path: Assets/2D Practice/Scenes1/Level 10.unity
+    guid: c04c4fd2f2c3a9446a87e2bbb5bb09db
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
